@@ -1,4 +1,4 @@
-# vc-fundraising
+# A Data-Driven Look at VC Fundraising
 
 # Introduction
 
