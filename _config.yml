@@ -1,5 +1,5 @@
-title: Predicting VC Fundraising
-description: EECS 398 Final Project – Venture Capital Analysis
-remote_theme: pages-themes/midnight@v0.2.0
+title: A Data-Driven Look at VC Fundraising
+description: Machine Learning Approach to Modeling Venture Capital Fundraising
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
