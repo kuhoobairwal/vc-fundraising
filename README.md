@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project explores the venture capital (VC) fundraising landscape using a dataset of over **3,800 individual funds**. The data includes detailed information on each fund's characteristics—such as its age, investment stage, country focus, associated firm size, and more.
+This project explores the venture capital (VC) fundraising landscape using a dataset of over **4,500 individual funds**. The data includes detailed information on each fund's characteristics—such as its age, investment stage, country focus, associated firm size, and more.
 
 ### The Central Question:
 > **Can we predict how much capital a VC fund will raise based on its fund structure, firm characteristics, and strategic focus?**
@@ -14,7 +14,7 @@ This analysis is particularly relevant to **limited partners (LPs)**—such as i
 
 ## Dataset Overview
 
-- **Total number of observations (rows):** 3,856 funds  [] todo
+- **Total number of observations (rows):** 4820 (after data cleaning)
 - **Source:** Compiled from VC and private equity databases  
 - **Time span:** Fund launches from the 2000s to present  
 - **Focus:** Fund-level data, not startup-level data
