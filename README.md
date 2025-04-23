@@ -328,11 +328,11 @@ The final model achieved improved performance over the baseline model on both th
 | Model         | Train R² | Test R² |
 |---------------|----------|---------|
 | Baseline      | 0.6991   | 0.7022  |
-| **Final Model** | **0.7108**   | **0.7134**  |
+| **Final Model** | **0.7184**   | **0.6684**  |
 
-While the improvement in R² is modest, it reflects meaningful gains in model fit. The final model captures slightly more variance in `Fund Amount Raised`, likely due to the added nonlinear interactions and richer categorical encodings.
+While the improvement in Training R² is modest, it reflects meaningful gains in model fit. However, the testing R² decreases. This likely means that the model is overfitting to some data, and hence captures slightly less variance in `Fund Amount Raised`, likely due to the added nonlinear interactions and richer categorical encodings.
 
-This improvement came without overfitting: the training and test R² values remain closely aligned. The model generalizes well and benefits from regularization through Lasso, which helps reduce the impact of less informative features.
+This improvement came without overfitting: the training and test R² values remain closely aligned. The final model does not generalizes well to the testing dataset, however the training R² benefits from regularization through Lasso, which helps reduce the impact of less informative features.
 
 ## Conclusion
 
