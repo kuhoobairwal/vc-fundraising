@@ -15,8 +15,8 @@ This analysis is particularly relevant to **limited partners (LPs)**—such as i
 ## Dataset Overview
 
 - **Total number of observations (rows):** 4820 (after data cleaning)
-- **Source:** Compiled from VC and private equity databases  
-- **Time span:** Fund launches from the 2000s to present  
+- **Source:** Compiled from FactSet, a financial data and software company  
+- **Time span:** Fund launches from the 2008-2025 
 - **Focus:** Fund-level data, not startup-level data
 
 
